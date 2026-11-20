@@ -23,6 +23,11 @@
       "children": [
         {
           "paths": [
+            { "langs": ["en"], "path": "operations-sop/mens-day.md" }
+          ]
+        },
+        {
+          "paths": [
             { "langs": ["en"], "path": "operations-sop/operations-1-1.md" }
           ]
         }
